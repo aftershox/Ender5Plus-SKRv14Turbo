@@ -1,13 +1,13 @@
 # Ender5Plus-SKRv14Turbo
 All things related to my Ender 5 Plus
 
-# 16th October 2020 - Printer arrives
+# 16th October 2020 - _Printer arrives_
 
 ![Image of ducks](https://github.com/aftershox/Ender5Plus-SKRv14Turbo/blob/main/images/afraid-of-wet.jpg)
 
-Stock Machine
+**Stock Machine**
 BUILT and TESTED - running 1.70.2 firmware from factory.  
-- BUG - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
+- _**BUG**_ - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
 
 ---
 
