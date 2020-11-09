@@ -1,11 +1,14 @@
 # Ender5Plus-SKRv14Turbo
-All things related to my Ender 5 Plus
+# All things related to my Ender 5 Plus
 
 Change Log :-
 # 16th October 2020
 
-Stock Machine BUILT and TESTED - running 1.70.2 firmware from factory.  
+Stock Machine
+BUILT and TESTED - running 1.70.2 firmware from factory.  
 - BUG - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
+
+---
 
 Communicating with the Mainboard
 - To connect to the mainboard from PC to USB - have to install FTDI drivers - https://support.th3dstudio.com/hc/en-us/articles/360043291472-Creality-Printer-Drivers-FT232R-Chip-Most-Models
