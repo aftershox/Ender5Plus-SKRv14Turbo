@@ -2,6 +2,7 @@
 All things related to my Ender 5 Plus
 
 Change Log :-
+# 16th October 2020
 
 Stock Machine BUILT and TESTED - running 1.70.2 firmware from factory.  
 - BUG - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
@@ -17,15 +18,17 @@ Firmware for Stock Creality board
 
 - Once Firmware is upgraded - the menus revert back to Chinese Language, so use the control panel / touch screen to set back to English Language. 
 
-25th October 2020 - Next job is SKR Turbo v.1.4 with 5 x TMC2209s and Z-Steppers auto-align G34 and the BTT TFT.
+# 25th October 2020 - Next job is to install SKR Turbo v.1.4 with 5 x TMC2209s and Z-Steppers auto-align G34 and the BTT TFT 3.5"
 
 1) Set jumpers on SKR v.1.4 Turbo - as per the BTT Guide for TMC 2209 Drivers in UART mode
 - - Remove 3 x jumpers from each stepper installation location - leaving just one
-2) If NOT using Stallguard / Sensorless Homing - you'll need to CUT the Diag pins on EACH Driver - that uses a Physical Limit Switch
+
+2) If NOT using Stallguard / Sensorless Homing - you'll need to CUT the Diag pins on EACH Driver that uses a Physical Limit Switch
 - X-UART (Cut Pin / Uses Physical Switch for X Endstop)
 - Y-UART (Cut Pin / Uses Physical Switch for Y Endstop)
-- Z-UART (DO NOT CUT PIN / Uses BL Touch Probe as Endstop)
+- Z-UART (CUT PIN / Uses BL Touch Probe as Z- MIN Endstop)
 - E0-UART (Cut Pin / Uses Filament Runout Sensor [Physical Switch] with Extruder)
+- E1-UART (used for SECOND Z Stepper Motor) - CUT PIN - as BL Touch Probe uses Z- MIN for Z Endstop
 
 - If using 5 x TMC 2209 - i.e. to setup Z2 for using G34 - Z Steppers Auto-Alignment
 - - Install TMC 2209 #5 into the E1-UART (Z2) socket
