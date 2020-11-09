@@ -17,7 +17,7 @@ Communicating with the Mainboard
 
 Firmware for Stock Creality board
 - Firmware upgraded to Kersey Fabs Ender-(5PlusBLTouch_0904_V1.71.0 KF.hex) - to fix the BL Touch probe offset (Probe now in centre of bed)
-- Watch the video and check Video Description for download links - https://youtu.be/9pDoxf13_wg
+> Watch the video and check Video Description for download links - https://youtu.be/9pDoxf13_wg
 
 - Once Firmware is upgraded - the menus revert back to Chinese Language, so use the control panel / touch screen to set back to English Language. 
 
