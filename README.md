@@ -1,8 +1,9 @@
 # Ender5Plus-SKRv14Turbo
 All things related to my Ender 5 Plus
 
-Change Log :-
-# 16th October 2020
+# 16th October 2020 - Printer arrives
+
+![Image of ducks](https://github.com/aftershox/Ender5Plus-SKRv14Turbo/images/afraid-of-wet.jpg)
 
 Stock Machine
 BUILT and TESTED - running 1.70.2 firmware from factory.  
