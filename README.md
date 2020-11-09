@@ -1,5 +1,5 @@
 # Ender5Plus-SKRv14Turbo
-# All things related to my Ender 5 Plus
+All things related to my Ender 5 Plus
 
 Change Log :-
 # 16th October 2020
