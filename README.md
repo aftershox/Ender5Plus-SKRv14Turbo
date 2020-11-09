@@ -3,7 +3,7 @@ All things related to my Ender 5 Plus
 
 # 16th October 2020 - Printer arrives
 
-![Image of ducks](https://github.com/aftershox/Ender5Plus-SKRv14Turbo/tree/main/images/afraid-of-wet.jpg)
+![Image of ducks](https://github.com/aftershox/Ender5Plus-SKRv14Turbo/blob/main/images/afraid-of-wet.jpg)
 
 Stock Machine
 BUILT and TESTED - running 1.70.2 firmware from factory.  
