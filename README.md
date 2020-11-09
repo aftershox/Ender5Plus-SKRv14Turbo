@@ -7,7 +7,7 @@ All things related to my Ender 5 Plus
 
 **Stock Machine**
 BUILT and TESTED - running 1.70.2 firmware from factory.  
-- _**BUG**_ - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
+- _**BUG found**_ - Auto Home puts NOZZLE and not BL Touch Probe pin at centre of bed.
 
 ---
 
